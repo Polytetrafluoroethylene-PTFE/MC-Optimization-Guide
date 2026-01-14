@@ -1,5 +1,20 @@
 ## Other mods which may be useful in some specific situations.
 This doesn't mean you should just install all of them. Only use the ones you need.
+# 1.21.11
+<details>
+  <summary>Click to expand</summary>
+  
+| Mod | Note | Mod loader | Client/Server |
+|:---:|:---:|:---:|:---:|
+| Alternate Current | Can improve performance with lots of redstone contraptions around | Fabric, NeoForge | Server |
+| BadOptimizations | Optimizes various parts of the game, **but some things may differ from Vanilla** | Fabric, NeoForge | Both |
+| Clumps | Clumps XP Orbs together, reducing lag | Fabric, NeoForge | Server |
+| Ixeris | Offloads event polling to a separate thread, potentially improving FPS | NeoForge | Client |
+| Krypton/Krypton FNP | Improves the network stack, may be helpful on mulitplayer | Fabric, Forge, NeoForge | Both |
+| MapMipMapMod | Improves mipmapping of maps in item frames | Fabric | Client |
+| Structure Layout Optimizer | Improves structure generation speed, helpful in packs with lots of structures | Fabric, NeoForge | Server |
+
+</details>
 
 # 1.21.1
 <details>
