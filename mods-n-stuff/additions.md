@@ -9,7 +9,7 @@ This doesn't mean you should just install all of them. Only use the ones you nee
 | Alternate Current | Can improve performance with lots of redstone contraptions around | Fabric, NeoForge | Server |
 | BadOptimizations | Optimizes various parts of the game, **but some things may differ from Vanilla** | Fabric, NeoForge | Both |
 | Clumps | Clumps XP Orbs together, reducing lag | Fabric, NeoForge | Server |
-| Ixeris | Offloads event polling to a separate thread, potentially improving FPS | NeoForge | Client |
+| Ixeris | Offloads event polling to a separate thread, potentially improving FPS | Fabric, Forge, NeoForge | Client |
 | Krypton/Krypton FNP | Improves the network stack, may be helpful on mulitplayer | Fabric, Forge, NeoForge | Both |
 | MapMipMapMod | Improves mipmapping of maps in item frames | Fabric | Client |
 | Structure Layout Optimizer | Improves structure generation speed, helpful in packs with lots of structures | Fabric, NeoForge | Server |
@@ -27,7 +27,7 @@ This doesn't mean you should just install all of them. Only use the ones you nee
 | BadOptimizations | Optimizes various parts of the game, **but some things may differ from Vanilla** | Fabric, NeoForge | Both |
 | Cerulean | Optimizes the advancement checking system | Fabric, NeoForge | Server |
 | Cesium | Reduces save file size | Fabric, NeoForge (Connector only) | Server |
-| Clumps | Clumps XP Orbs together, reducing lag | Fabric, NeoForge | Server |
+| Clumps | Clumps XP Orbs together, reducing lag | Fabric, Forge, NeoForge | Server |
 | Create Better FPS | Improves fps when using shaders around Create contraptions. Doesn't work as well as Vanillin, but has better shader compatibility | NeoForge | Client |
 | Debugify | Fixes various bugs | Fabric | Both |
 | Flerovium | Speeds up item rendering | NeoForge | Client |
