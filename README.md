@@ -1,5 +1,5 @@
 > [!IMPORTANT]
->**MC-Optimization-Guide Mirror**
+>**MC-Optimization-Guide Continuation**
 > 
 > This repository was created on 13/01/26 after the original creator’s account was deleted.  
 > All credit goes to **Radk6**.  
