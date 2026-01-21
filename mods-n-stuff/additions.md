@@ -125,6 +125,7 @@ This doesn't mean you should just install all of them. Only use the ones you nee
 |:---:|:---:|:---:|:---:|
 | Better Biome Blend | Improves the performance and look of biome blending. Not necessary if you're using Celeritas | Cleanroom | Client |
 | Gnetum | Distributes HUD updates over multiple frames which improves performance | Cleanroom | Client |
+| OptiNotFine | If you use OptiFine (unfortunately the only mod that supports shaders), it’s recommended to use this mod to fix some OptiFine-related issues | Cleanroom | Client |
 | Particle Culling | Culls particles, may be helpful in situations where there's a lot of them | Cleanroom | Client |
 | SerializationIsBad | Fixes the BleedingPipe/ObjectInputStream vulnerability | Cleanroom | Both |
 | Sledgehammer | Situational fixes for some mods | Cleanroom | Both |
