@@ -57,6 +57,10 @@ Q: Why isn't `version x.y.z` supported?
 
 A: I only maintain lists for Minecraft versions that still see active mod development.
 
+Q: Isn’t it better to just use an optimization modpack?
+
+Q:The guide aims to provide the best balance between number of mods and performance. Optimization modpacks usually include additional mods that aren’t strictly performance-related. If you want the best performance with the fewest mods, use the guide. If you prefer something more plug-and-play or with extra QoL mods, then use an optimization modpack.
+
 Q: Will these work on PojavLauncher?
 
 A: Maybe, maybe not. Try it and see. Pojav compatibility isn't a priority since most players are on PC.
