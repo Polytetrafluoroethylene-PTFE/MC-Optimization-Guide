@@ -47,7 +47,8 @@ Depending on the Java version, different JVM arguments are available. Here's wha
 | Java 21 | `-XX:+UseZGC -XX:+ZGenerational` |
 | Java 8 | `-XX:+UseG1GC` |
 
-**NOTE:** If you have an old CPU or less than 16 GB of total system RAM, I wouldn't recommend using ZGC. G1GC is a better option for such systems.
+>[!NOTE]
+>If you have an old CPU or less than 16 GB of total system RAM, I wouldn't recommend using ZGC. G1GC is a better option for such systems.
 
 Brief explanation of what these arguments do:
 
