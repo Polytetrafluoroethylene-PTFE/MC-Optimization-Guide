@@ -6,19 +6,18 @@ Test system specs:
 
 - AMD Ryzen 7 9800X3D
 - NVIDEA GeForce RTX 4080 SUPER (Driver 591.74)
-- ASUS TUF GAMING X870-PLUS WIFI (BIOS ver. 5.60)
+- ASUS TUF GAMING X870-PLUS WIFI
 - RAM Corsair Vengeance DDR5 6000MHz 32GB 2x16GB CL30
 - Kioxia Exceria Plus G3 2TB
 - Windows 11 Pro 24H2
 
 # Game loading times
 
-An average of 10 runs of every Java version and garbage collector. This was tested in an [optimized StoneBlock instance](/modpack-specific/packs-1.12.2.md#stoneblock). Java 8 and 21 were from Adoptium. The time was measured with VintageFix.
+An average of 10 runs of every Java version and garbage collector. This was tested in an [optimized MeatballCraft, Dimensional Ascension](/modpack-specific/packs-1.12.2.md#meatballcraft-dimensional-ascension). Java 8 and 25 were from Adoptium. The time was measured with VintageFix.
 
-![average](https://github.com/user-attachments/assets/bdeb79d7-2ae6-4f71-ac8d-c9cff1d7fdf8)
+![average](https://github.com/user-attachments/assets/87568d20-7bbf-40c3-882f-fc8942539596)
 
-GraalVM 24 with G1GC performs best here, followed by GraalVM 24 with Generational ZGC. Java 8 is considerably slower than everything else.
+Adoptium 25 with G1GC performs best here, followed by Adoptium 25 with Generational Shenandoah. Java 8 is considerably slower than everything else.
 
-### Data from all 10 runs:
-
-![all 10 runs](https://github.com/user-attachments/assets/ae575d18-40a6-472d-b1a0-2fabebd656df)
+> [!CAUTION]
+> Based on my testing, Generational Shenandoah has been extremely unstable, crashing in 4 out of 10 launches (40%)
