@@ -4,11 +4,11 @@ Here are some Java benchmarks I conducted in my free time.
 
 Test system specs:
 
-- AMD Ryzen 7 5800X3D
-- AMD Radeon RX 7800 XT (Driver 25.3.1)
-- ASRock X570 Pro⁴ (BIOS ver. 5.60)
-- G.Skill Aegis 32 GB DDR4 3200 MT/s CL16 RAM
-- Crucial P5 Plus 1 TB
+- AMD Ryzen 7 9800X3D
+- NVIDEA GeForce RTX 4080 SUPER (Driver 591.74)
+- ASUS TUF GAMING X870-PLUS WIFI (BIOS ver. 5.60)
+- RAM Corsair Vengeance DDR5 6000MHz 32GB 2x16GB CL30
+- Kioxia Exceria Plus G3 2TB
 - Windows 11 Pro 24H2
 
 # Game loading times
