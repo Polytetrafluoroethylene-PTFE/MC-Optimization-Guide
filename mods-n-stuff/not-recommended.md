@@ -268,7 +268,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Out Of Sight | Redundant with Entity Culling |
 | Performant | Incompatible and redundant with RoadRunner |
 | Radon | Redundant with Starlight |
-| Recipe Cache | Redundant with FastFurnace, FastWorkench and FastSuite |
+| Recipe Cache | Redundant with FastFurnace, FastWorkbench and FastSuite |
 | Redirector [Modern] | Compatibility issues, negligible performance improvement |
 | Rubidium | Redundant with Embeddium |
 | Saturn | Redundant with ModernFix, negligible performance improvement |
