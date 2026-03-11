@@ -188,9 +188,7 @@ Known issues: None (yet?)
 3. Update CraftTweaker, Logistics Pipes and Sledgehammer
 4. Remove AI Improvements, BetterFPS, Bigger Packets Please, Clumps, Diet Hopper, DupeFix Project, FastWorkbench, FoamFix, Just Enough Items, LibrarianLib, Logistics Bridge, MixinBootstrap, Mouse Tweaks, Phosphor, RandomPatches, Shadowfacts' Forgelin, SwingThroughGrass, Toast Control and VanillaFix
 5. Install Forgelin-Continuous, Fugue, Had Enough Items, LibrarianLib-Continuous, Logistics Bridge Extended Life, Mouse Tweaks Unofficial and Scalar Legacy
-6. Run the game once (it will crash)
-7. Add `org.eientei.gtce2oc.GTCE2OC` to `S:Reflection Patch Target List` in `fugue.cfg`
-8. Make sure you have all of [these mods](/mods-n-stuff/1.12.2.md) installed and configured accordingly
+6. Make sure you have all of [these mods](/mods-n-stuff/1.12.2.md) installed and configured accordingly
 
 Known issues: None (yet?)
 
@@ -262,9 +260,8 @@ Known issues: None (yet?)
 3. Update CensoredASM, Had Enough Items, RenderLib and UniversalTweaks
 4. Remove BetterFPS, Clumps, ConfigAnytime, EntityCulling, FastWorkbench, FoamFix, Max Potion ID Extender, MixinBooter, MixinBootstrap, NotEnoughIDs, Old Java Warning, RandomPatches, Shadowfacts' Forgelin and Spark
 5. Install Forgelin-Continuous, Fugue, Roughly Enough IDs and Scalar Legacy
-6. Add `S:"net.minecraft.client.renderer.EntityRenderer"=field_78504_Q` to "final fields patching list" in `fugue.cfg`
-7. Make sure you have all of [these mods](/mods-n-stuff/1.12.2.md) installed and configured accordingly (**NOTE:** You MUST set `mixin.dynamic_resources` to `false` in vintagefix.properties as well as `Parallel Model Loader` in stellar_core.cfg, otherwise the game won't load or you'll get performance issues)
-8. Set Mipmap levels to 4 in the settings
+6. Make sure you have all of [these mods](/mods-n-stuff/1.12.2.md) installed and configured accordingly (**NOTE:** You MUST set `mixin.dynamic_resources` to `false` in vintagefix.properties as well as `Parallel Model Loader` in stellar_core.cfg, otherwise the game won't load or you'll get performance issues)
+7. Set Mipmap levels to 4 in the settings
 
 Known issues: None (yet?)
 
