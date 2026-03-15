@@ -221,7 +221,7 @@ Known issues: None (yet?)
    - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the Infinite Alchemy instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Update CensoredASM, Fluidlogged API, GroovyScript, Had Enough Items, JEI Utilities, Nothirium, Roughly Enough IDs, Stellar Core, UniversalTweaks and VintageFix
-4. Remove Clumps, MixinBooter, MixinBootstrap, Mouse Tweaks, Quark and Shadowfacts' Forgelin
+4. Remove Clumps, ConfigAnytime, MixinBooter, MixinBootstrap, Mouse Tweaks, Quark and Shadowfacts' Forgelin
 5. Install Forgelin-Continuous, Fugue, Mouse Tweaks Unofficial, Quark: RotN Edition and Scalar Legacy
 6. Make sure you have all of [these mods](/mods-n-stuff/1.12.2.md) installed and configured accordingly 
 7. Add `net.malisis.ddb.BlockPack` to `S:Reflection Patch Target List` in `fugue.cfg`
