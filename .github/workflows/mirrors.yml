@@ -17,6 +17,6 @@ jobs:
 
       - name: Mirrors
         run: |
-          git remote add gitlab https://oauth2:${{ secrets.GITLAB_TOKEN }}@gitlab.com/Polytetrafluoroethylene-PTFE/mc-optimization-guide.git
+          git remote add gitlab https://oauth2:${{ secrets.GITLAB_TOKEN }}@gitlab.com:MiguelNinja19/MC-Optimization-Guide-fork.git
           git push --force --all gitlab
           git push --force --tags gitlab
