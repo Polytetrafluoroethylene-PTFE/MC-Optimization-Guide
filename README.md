@@ -41,7 +41,7 @@ Inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods) and vario
 
 ## [Java stuff](java-n-stuff/java-things.md)
 
-## [Modpack-specific optimizations](modpack-specific/modpack-instructions.md)
+## [Modpack-specific optimizations](modpack-specific/README.md)
 
 ## FAQ
 Q: What happened to Rad? Why was the original repository deleted?
