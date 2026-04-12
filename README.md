@@ -54,7 +54,7 @@ A: A list of mods that aren't recommended (and why) can be found [here](mods-n-s
 
 Q: Why isn't `version x.y.z` supported?
 
-A: I only maintain lists for Minecraft versions that still see active mod development.
+A: I only maintain lists for Minecraft versions that still see active mod development. However, [there are guides](mods-n-stuff/other-versions/README.md) for inactive versions, but they are not maintained.
 
 Q: Isn’t it better to just use an optimization modpack?
 
