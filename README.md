@@ -46,11 +46,11 @@ Inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods) and vario
 ## FAQ
 Q: What happened to Rad? Why was the original repository deleted?
 
-A: He went on a break and didn't want to maintain the guide anymore
+A: He went on a break and didn't want to maintain the guide anymore.
 
 Q: Why isn't `mod x` on any of the lists?
 
-A: A list of mods that aren't recommended (and why) can be found [here](mods-n-stuff/not-recommended.md). Similarly, a list of situational performance mods which may help in some specific scenarios can be found [here](/mods-n-stuff/additions.md)
+A: A list of mods that aren't recommended (and why) can be found [here](mods-n-stuff/not-recommended.md). Similarly, a list of situational performance mods which may help in some specific scenarios can be found [here](/mods-n-stuff/additions.md).
 
 Q: Why isn't `version x.y.z` supported?
 
