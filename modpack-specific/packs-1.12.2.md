@@ -494,7 +494,7 @@ Known issues: None (yet?)
 6. Install Forgelin-Continuous, Fugue and Scalar Legacy
 7. Make sure you have all of [these mods](/mods-n-stuff/1.12.2.md) installed and configured accordingly
 
-Known issues: None (yet?)
+Known issues: Had Enough Items [conflicts](https://github.com/Polytetrafluoroethylene-PTFE/MC-Optimization-Guide/issues/27) with Resource Hogs and causes [crashes](https://github.com/CleanroomMC/HadEnoughItems/issues/141), so it cannot be used. 
 
 </details>
 
