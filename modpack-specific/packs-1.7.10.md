@@ -1,7 +1,9 @@
 # Note: Currently these are provided as-is, with no support. I will probably revisit/rewrite them in the future, but for now, if something breaks, you're on your own.
 
 ## Blightfall
-
+<details>
+  <summary>Click to see instructions</summary>
+  
 1. Install the latest version of Blightfall
 2. Remove FastCraft and Neodymium
 3. Update ArchaicFix, CodeChickenCore Unofficial, Et Futurum Requiem, FoamFix, GTNHLib, Hodgepodge, NotEnoughItems Unofficial and UniMixins
@@ -10,8 +12,11 @@
 6. Set the game to run with [the recommended Java version](/java-n-stuff/java-things.md)
 
 Known issues: None (yet?)
+</details>
 
 ## Crazy Craft 3.0
+<details>
+  <summary>Click to see instructions</summary>
 
 1. Create a Crazy Craft 3.0 instance (the official way is downloading the pack via the Voidswrath launcher, then copying all files to a 1.7.10 Prism instance, but there are other ways, eg. via the Technic launcher)
 2. Remove Adventure Backpack, Carpenter's Blocks, Chisel, CodeChickenCore, CodeChickenLib, NEI Addons, NotEnoughItems, Mine & Blade Battlegear 2 and Opis
@@ -21,8 +26,11 @@ Known issues: None (yet?)
 6. Set the game to run with [the recommended Java version](/java-n-stuff/java-things.md)
 
 Known issues: None (yet?)
+</details>
 
 ## FTB Infinity Evolved
+<details>
+  <summary>Click to see instructions</summary>
 
 1. Install the latest version of Infinity Evolved
 2. Remove Binnie Patcher, CodeChickenLib, FastCraft and INpureCore
@@ -30,8 +38,11 @@ Known issues: None (yet?)
 4. Make sure you have all of [these mods](/mods-n-stuff/1.7.10.md) installed (except Lumi, as it currently causes a crash with MFR Slaughterhouse)
 5. Go to the instance folder -> minecraft -> config -> bugtorch -> mixins.cfg and set `B:skipInitialWorldChunkLoad` to `false`
 6. Set the game to run with [the recommended Java version](/java-n-stuff/java-things.md)
+</details>
 
 ## Minecraft SKY
+<details>
+  <summary>Click to see instructions</summary>
 
 1. Install the latest version of Minecraft SKY
 2. Update Forge to the latest version (10.13.4.1614)
@@ -44,8 +55,11 @@ Known issues: None (yet?)
 9. Set the game to run with [the recommended Java version](/java-n-stuff/java-things.md)
 
 Known issues: None (yet?)
+</details>
 
 ## Project Ozone 2
+<details>
+  <summary>Click to see instructions</summary>
 
 1. Download the latest version of Project Ozone 2
 2. Remove CodeChickenLib and FastCraft 
@@ -57,8 +71,11 @@ Known issues: None (yet?)
 Known issues: None (yet?)
 
 Note: You may need to replace a few other mods (Carpenters' Blocks? Tinkers' Construct?) with their GTNH versions.
+</details>
 
 ## SkyFactory 2.5
+<details>
+  <summary>Click to see instructions</summary>
 
 1. Install the latest version of the pack
 2. Remove CodeChickenLib, FastCraft and Mercurius
@@ -69,3 +86,4 @@ Note: You may need to replace a few other mods (Carpenters' Blocks? Tinkers' Con
 Known issues: None (yet?)
 
 Note: You may need to replace a few other mods (Carpenters' Blocks? Tinkers' Construct?) with their GTNH versions.
+</details>
