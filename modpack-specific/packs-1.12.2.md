@@ -131,7 +131,7 @@ Known issues: None (yet?)
 2. Move the pack to Cleanroom Loader
    - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the E2Eu instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
-3. Update CensoredASM, Had Enough Items, JEI Utilities, NotEnoughEnergistics, VintageFix and UniversalTweaks
+3. Update Chibi, Had Enough Items, JEI Utilities, NotEnoughEnergistics, VintageFix and UniversalTweaks
 4. Remove BetterFPS, Clumps, Hesperus, MixinBooter, NotEnoughIDs, Old Java Warning, RandomPatches and Shadowfacts' Forgelin
 5. Install Forgelin-Continuous, Fugue, Roughly Enough IDs and Scalar Legacy
 6. Make sure you have all of [these mods](/mods-n-stuff/1.12.2.md) installed and configured accordingly
@@ -220,7 +220,7 @@ Known issues: None (yet?)
 2. Move the pack to Cleanroom Loader
    - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the Infinite Alchemy instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
-3. Update CensoredASM, Fluidlogged API, GroovyScript, Had Enough Items, JEI Utilities, Nothirium, Roughly Enough IDs, Stellar Core, UniversalTweaks and VintageFix
+3. Update Chibi, Fluidlogged API, GroovyScript, Had Enough Items, JEI Utilities, Nothirium, Roughly Enough IDs, Stellar Core, UniversalTweaks and VintageFix
 4. Remove Clumps, ConfigAnytime, MixinBooter, MixinBootstrap, Mouse Tweaks, Quark and Shadowfacts' Forgelin
 5. Install Forgelin-Continuous, Fugue, Mouse Tweaks Unofficial, Quark: RotN Edition and Scalar Legacy
 6. Make sure you have all of [these mods](/mods-n-stuff/1.12.2.md) installed and configured accordingly 
@@ -257,7 +257,7 @@ Known issues: None (yet?)
 2. Move the pack to Cleanroom Loader
    - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the Magiculture 2 instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
-3. Update CensoredASM, Had Enough Items, RenderLib and UniversalTweaks
+3. Update Chibi, Had Enough Items, RenderLib and UniversalTweaks
 4. Remove BetterFPS, Clumps, ConfigAnytime, EntityCulling, FastWorkbench, FoamFix, Max Potion ID Extender, MixinBooter, MixinBootstrap, NotEnoughIDs, Old Java Warning, RandomPatches, Shadowfacts' Forgelin and Spark
 5. Install Forgelin-Continuous, Fugue, Roughly Enough IDs and Scalar Legacy
 6. Make sure you have all of [these mods](/mods-n-stuff/1.12.2.md) installed and configured accordingly (**NOTE:** You MUST set `mixin.dynamic_resources` to `false` in vintagefix.properties as well as `Parallel Model Loader` in stellar_core.cfg, otherwise the game won't load or you'll get performance issues)
@@ -312,7 +312,7 @@ Known issues: None (yet?)
 2. Move the pack to Cleanroom Loader
    - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the MeatballCraft, Dimensional Ascension instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
-3. Update CensoredASM, EntityCulling, Fugue, ReachFix, Red Core, RenderLib, Naughthirium, Nothirium, VintageFix and UniversalTweaks
+3. Update Chibi, EntityCulling, Fugue, ReachFix, Red Core, RenderLib, Naughthirium, Nothirium, VintageFix and UniversalTweaks
 4. Remove ConfigAnytime and MixinBooter
 
 Known issues: Updating Alfheim to 1.6 causes crashes when displaying MMCE multiblocks in HEI, so stick with Alfheim 1.5 for now.
@@ -364,7 +364,7 @@ Known issues: None (yet?)
 2. Move the pack to Cleanroom Loader
    - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the Nomifactory CEu instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
-3. Update CensoredASM, Forgelin-Continuous, LibrarianLib-Continuous, VintageFix and UniversalTweaks
+3. Update Chibi, Forgelin-Continuous, LibrarianLib-Continuous, VintageFix and UniversalTweaks
 4. Remove Clumps
 5. Install Fugue and Scalar Legacy 
 6. Make sure you have all of [these mods](/mods-n-stuff/1.12.2.md) installed and configured accordingly
@@ -386,7 +386,7 @@ Known issues: Java 25 causes issues, stick with Java 21 for now.
 4. Install Forgelin-Continuous, Fugue, Had Enough Items, Quark: RotN Edition, Roughly Enough IDs and Scalar Legacy
 5. Make sure you have all of [these mods](/mods-n-stuff/1.12.2.md) installed and configured accordingly
 
-Known issues: Dimensional cake rendering is slightly broken with Nothirium, some items aren't hidden in HEI ([caused by CensoredASM](https://github.com/LoliKingdom/LoliASM/issues/263), not worth removing the mod given the performance improvement it brings)
+Known issues: Dimensional cake rendering is slightly broken with Nothirium, some items aren't hidden in HEI ([caused by Chibi](https://github.com/LoliKingdom/LoliASM/issues/263), not worth removing the mod given the performance improvement it brings)
 
 </details>
 
@@ -417,7 +417,7 @@ Known issues: Doesn't work with Java 25, so stick with Java 21 for now.
 2. Move the pack to Cleanroom Loader
    - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the Revers instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
-3. Update CensoredASM, JEI Utilities, Nothirium, Railcraft, RenderLib, Sledgehammer
+3. Update Chibi, JEI Utilities, Nothirium, Railcraft, RenderLib, Sledgehammer
 4. Remove AI Improvements, AttributeFix, Better Burning, BetterFPS, Born in a Barn, Clumps, EntityCulling, Fast Leaf Decay, FoamFix, Ido, Just Enough Items, LagGoggles, Mixin Compatibility, MixinBooter, MixinBootstrap, NotEnoughIDs, Performant, Phosphor, RandomPatches, Save My Stronghold!, Shadowfacts' Forgelin, Surge, SwingThroughGrass and TickCentral
 5. Install Aqua Acrobatics, Forgelin-Continuous, Fugue, Had Enough Items, Roughly Enough IDs and Scalar Legacy
 6. Make sure you have all of [these mods](/mods-n-stuff/1.12.2.md) installed and configured accordingly

@@ -289,7 +289,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | BetterFPS | Compatibility issues, negligible performance improvement |
 | Born in a Barn | Redundant, fix already present in Forge/Cleanroom |
 | Clumps | Redundant with Fixeroo |
-| FastFurnace | Redundant with CensoredASM |
+| FastFurnace | Redundant with Chibi |
 | FastWorkbench | Redundant with UniversalTweaks |
 | FoamFix | Redundant with VintageFix |
 | FPS Boost | Fake mod, doesn't provide any performance improvements |
@@ -299,8 +299,8 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Performant | No performance improvement (latest version), slows down parts of the game to "improve" performance |
 | Phosphor | Redundant with Alfheim |
 | Redirectionor [Retro] | Compatibility issues, negligible performance improvement |
-| TexFix | Redundant with CensoredASM |
-| VanillaFix | Redundant with CensoredASM |
+| TexFix | Redundant with Chibi |
+| VanillaFix | Redundant with Chibi |
 | Vintagium/Relictium/Neonium | Compatibility issues, redundant with Celeritas |
 
 </details>
