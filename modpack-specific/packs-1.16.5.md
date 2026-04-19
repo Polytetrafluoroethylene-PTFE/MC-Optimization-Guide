@@ -73,6 +73,21 @@ Known issues: None (yet?)
 
 </details>
 
+## FTB Academy 2
+
+<details>
+  <summary>Click to see instructions</summary>
+  
+1. Install the latest version of FTB Academy 2
+2. Update Forge to the latest version
+3. Remove Rubidium, Magnesium Extras
+3. Make sure you have all of [these mods](/mods-n-stuff/1.16.5.md) installed and configured accordingly
+4. Set the Java version to 21 and add [these jvm arguments](https://github.com/embeddedt/ModernFix/wiki/1.16---required-arguments-for-Java-17)
+
+Known issues: None (yet?)
+
+</details>
+
 ## Mineshafts & Monsters
 
 <details>
