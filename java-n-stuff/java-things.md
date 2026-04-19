@@ -14,7 +14,7 @@
 | Forge/NeoForge | [Adoptium Java 25](https://adoptium.net/temurin/releases/?version=25&package=jre) | - |
 | Forge | [Adoptium Java 21](https://adoptium.net/temurin/releases/?version=21&package=jre) | Use ONLY if you have a mod which doesn't work with Java 25 |
 
-## 1.18.2 - 1.19.2
+## 1.18.2 & 1.19.2
 | Mod Loader | Java | Notes |
 |:---:|:---:|:---:|
 | Fabric | [Adoptium Java 25](https://adoptium.net/temurin/releases/?version=25&package=jre) | - |
