@@ -4,7 +4,7 @@
   
 1. Download the latest version of Reclamation - Reclaim the World!
 2. Update Forge to the latest version
-3. Update ModernFix, ImmediatelyFast
+3. Update ImmediatelyFast and ModernFix
 4. Make sure you have all of [these mods](/mods-n-stuff/1.20.1.md) installed and that they're configured accordingly.
 5. Make sure you're using [the recommended Java version](/java-n-stuff/java-things.md)
 
