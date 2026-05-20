@@ -131,7 +131,7 @@ Known issues: None (yet?)
 2. Move the pack to Cleanroom Loader
    - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the E2Eu instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
-3. Update Chibi, Had Enough Items, JEI Utilities, NotEnoughEnergistics, VintageFix and UniversalTweaks
+3. Update Chibi, Fluidlogged API, Had Enough Items, JEI Utilities, NotEnoughEnergistics, VintageFix and UniversalTweaks
 4. Remove BetterFPS, Clumps, Hesperus, MixinBooter, NotEnoughIDs, Old Java Warning, RandomPatches and Shadowfacts' Forgelin
 5. Install Forgelin-Continuous, Fugue, Roughly Enough IDs and Scalar Legacy
 6. Make sure you have all of [these mods](/mods-n-stuff/1.12.2.md) installed and configured accordingly
