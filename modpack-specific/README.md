@@ -4,6 +4,9 @@ In an ideal world, the modpacks mentioned here would be forked or updated with t
 
 Keep in mind that most of these optimizations weren't thoroughly tested, the only tests were done to see if the game loads up and if it crashes after creating/joining a world. If you encounter any issues, please report them.
 
+> [!CAUTION]
+> Always make a backup of your instance before applying any guide. I am not responsible for any corruption or if your instance becomes unplayable. Some changes are irreversible.
+
 | Minecraft version |
 |:---:|
 | [1.20.1](packs-1.20.1.md) |
