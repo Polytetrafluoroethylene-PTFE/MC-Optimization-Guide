@@ -15,6 +15,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Better Chunk Loading | May cause issues [[1]](https://github.com/FiniteReality/embeddium/wiki/Compatibility#other-known-incompatibilities) |
 | Better FPS - Render Distance | Might decrease fps on lower render distances, might cause visual bugs |
 | Chunk Sending | Redundant with Krypton/KryptonFNP |
+| CLab | AI-Slop. Redundant with Entity Culling |
 | Client Crafting | Mostly Redundant with FastFurnace, FastWorkbench and FastSuite |
 | Cull Leaves | Redundant with More Culling |
 | Cull Less Leaves | Redundant with More Culling |
@@ -75,6 +76,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Brute force render culling | Visual bugs |
 | Canary | Redundant with Radium |
 | Chunk Sending | Redundant with Krypton/KryptonFNP |
+| CLab | AI-Slop. Redundant with Entity Culling |
 | Client Crafting | Mostly Redundant with FastFurnace, FastWorkbench and FastSuite |
 | Concurrent Chunk Management Engine Forge (C2MEF) | No different than using C2ME via Synitra Connector |
 | Cull Leaves | Redundant with More Culling |
