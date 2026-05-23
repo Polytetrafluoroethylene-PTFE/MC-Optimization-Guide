@@ -81,8 +81,9 @@ Known issues: None (yet?)
   
 1. Install the latest version of Enigmatica 6
 2. Update Forge to the latest version
-3. Make sure you have all of [these mods](/mods-n-stuff/1.16.5.md) installed and configured accordingly
-4. Set the Java version to 21 and add [these jvm arguments](https://github.com/embeddedt/ModernFix/wiki/1.16---required-arguments-for-Java-17)
+3. Remove EntityCulling (by Meldexun)
+4. Make sure you have all of [these mods](/mods-n-stuff/1.16.5.md) installed and configured accordingly
+5. Set the Java version to 21 and add [these jvm arguments](https://github.com/embeddedt/ModernFix/wiki/1.16---required-arguments-for-Java-17)
 
 Known issues: None (yet?)
 
