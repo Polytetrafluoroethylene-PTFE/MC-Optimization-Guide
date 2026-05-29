@@ -94,7 +94,7 @@ Known issues: None (yet?)
 2. Move the pack to Cleanroom Loader
    - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the Divine Journey 2 instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
-3. Update GroovyScript, JEI Utilities, Recurrent Complex, Universal Tweaks, and VintageFix
+3. Update JEI Utilities, Recurrent Complex, Universal Tweaks, and VintageFix
 4. Remove Clumps, ConfigAnytime, FermiumASM, Just Enough Items, MixinBooter, NotEnoughIDs and Spark
 5. Install Fugue, Had Enough Items, Roughly Enough IDs, Flare and Scalar Legacy
 6. Make sure you have all of [these mods](/mods-n-stuff/1.12.2.md) installed and configured accordingly
