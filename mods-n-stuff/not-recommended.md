@@ -7,7 +7,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 
 | Mod | Reason |
 |:---:|:---:|
-| AI Improvements | Isn't as significant in 1.15+ as in older versions, use Lithium/RoadRunner/Radium and/or Mobtimizations instead |
+| AI Improvements | Isn't as significant in 1.15+ as in older versions, use Lithium/Radium instead |
 | Async | Compatibility issues, contains AI-generated code |
 | Bedrodium/Bocchium | Negligible performance improvement, mostly redundant with Sodium/Embeddium |
 | Better Beds | Redundant with Enhanced Block Entities |
@@ -41,7 +41,6 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | OptiFine | [Various reasons](opti-not-so-fine.md) |
 | Palladium | Negligible performance improvement |
 | Particle Core | Redundant with Async Particles |
-| Project-Unbound | AI-generated, no performance improvement |
 | Recipe Essentials | Mostly Redundant with FastFurnace, FastWorkbench and FastSuite |
 | Redirected | Compatibility issues, negligible performance improvement |
 | Saturn | Redundant with ModernFix, negligible performance improvement |
@@ -52,7 +51,6 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Super Fast Math | Mostly redundant with Lithium, may actually be slower than Vanilla [[1]](https://github.com/ItzjustElias/FastMathMod/issues/12) |
 | ThreadTweak | Redundant with C2ME |
 | ThreatenGL | Fake mod, doesn't provide any performance improvements |
-| Vramo | Questionable performance improvement, likely AI-generated |
 | VulkanMod | Compatibility issues |
 
 </details>
@@ -63,7 +61,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
   
 | Mod | Reason |
 |:---:|:---:|
-| AI Improvements | Isn't as significant in 1.15+ as in older versions, use Lithium/RoadRunner/Radium and/or Mobtimizations instead |
+| AI Improvements | Isn't as significant in 1.15+ as in older versions, use Lithium/Radium and/or Mobtimizations instead |
 | Bedrodium/Bocchium | Negligible performance improvement, mostly redundant with Sodium/Embeddium |
 | Better Beds | Redundant with Enhanced Block Entities |
 | Better Biome Reblend | Redundant with Sodium/Embeddium |
@@ -176,7 +174,6 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Structure Essentials | Redundant with Async Locator |
 | StutterFix | Redundant with Smooth Boot |
 | ThreatenGL | Fake mod, doesn't provide any performance improvements |
-| Vramo | Questionable performance improvement, likely AI-generated |
 | VulkanMod | Compatibility issues |
 
 </details>
@@ -187,7 +184,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
   
 | Mod | Reason |
 |:---:|:---:|
-| AI Improvements | Isn't as significant in 1.15+ as in older versions, use Lithium/RoadRunner/Radium and/or Mobtimizations instead |
+| AI Improvements | Isn't as significant in 1.15+ as in older versions, use Lithium/Radium/Canary and/or Mobtimizations instead |
 | Bedrodium/Bocchium | Negligible performance improvement, mostly redundant with Sodium/Embeddium |
 | Better Beds | Redundant with Enhanced Block Entities |
 | Better Biome Blend | Redundant with Sodium/Embeddium |
@@ -240,7 +237,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
   
 | Mod | Reason |
 |:---:|:---:|
-| AI Improvements | Isn't as significant in 1.15+ as in older versions, use Lithium/RoadRunner/Radium and/or Mobtimizations instead |
+| AI Improvements | Isn't as significant in 1.15+ as in older versions, use Lithium/RoadRunner instead |
 | Bocchium | Negligible performance improvement, mostly redundant with Sodium/Embeddium |
 | Better Beds | Redundant with Enhanced Block Entities |
 | Better Biome Blend | Redundant with Sodium/Embeddium |
