@@ -494,7 +494,7 @@ If you experience heavy lag spikes in dense areas (e.g., Brutal Towers), perform
 * Disable Better Foliage (`RLFoliage`).
 * Turn off all animations (If you want the nunchaku swing animation, leave terrain animation turned on).
 * Press `P` to bring up the Fancy Block Particles menu, locate the FBT icon, and click to disable it.
-* Turn off particles under the Celeritas Extra configuration (If using Setup 1).
+* Turn off particles.
 * Lower render distance and graphics settings.
 
 Known issues:
