@@ -376,6 +376,65 @@ Known issues: Java 25 causes issues, stick with Java 21 for now.
 
 </details>
 
+## Peace of Mind
+
+<details>
+  <summary>Click to see instructions</summary>
+   
+1. Install the latest version of Peace of Mind
+2. Move the pack to Cleanroom Loader
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the Peace of Mind instance to it.
+   - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
+3. Update ArchitectureCraft, Better With Mods, BiblioCraft, Chunk Animator, Chunk-Pregenerator, Controlling, CraftTweaker, ForgeEndertech, Just Enough Resources, LootTweaker, OAuth, Placebo, Recurrent Complex, Roots, Rustic and Storage Drawers
+4. Remove AppleSkin, Bailey's Dailies (its server backend is dead, the mod only prints an error in chat), Baubles, Bed Patch, Better Foliage, BetterFPS, Better Questing, Quest Book, Standard Expansion, Clumps, CodeChicken Lib, Diet Hopper, Discord RPC, Fast Leaf Decay, FoamFix, Fullscreen Windowed, Just Enough Items, MixinBootstrap, Mouse Tweaks, Natura, NetherPortalFix, Patchouli, Quark, Shadowfacts' Forgelin, Tinkers' Construct and The One Probe
+5. Install Alfheim Lighting Engine, Better Questing Unofficial, Bubbles, Carbon Config, Chibi, CodeChicken Lib CRE, Distant Horizons, Distant Horizons Memory Fix, Fixeroo, Forgelin-Continuous, Fugue, Gnetum, Had Enough Items, Just Enough Magiculture, LemonSkin, Mouse Tweaks Unofficial, Natura Legacy, Naughthirium, Nothirium, Patchouli ROFL Edition, Quark: RotN Edition, Red Core, RenderLib, Scalar Legacy, StellarCore, Tinkers' Antique, The One Probe Community Edition, Universal Tweaks and VintageFix
+6. Make sure you have all of [these mods](/mods-n-stuff/1.12.2.md) installed and configured accordingly
+7. Open scripts/mobdrops.zs with a text editor, delete everything inside and copy-paste this:
+<details>
+  <summary>mobdrops.zs (Updated)</summary>
+  
+```
+import loottweaker.LootTweaker;
+import loottweaker.LootTable;
+import loottweaker.LootPool;
+import loottweaker.Conditions;
+import loottweaker.Functions;
+
+//Get loot tables and store them for later use
+val sheep = LootTweaker.getTable("minecraft:entities/sheep");
+val pig = LootTweaker.getTable("minecraft:entities/pig");
+val cow = LootTweaker.getTable("minecraft:entities/cow");
+val chicken = LootTweaker.getTable("minecraft:entities/chicken");
+val rabbit = LootTweaker.getTable("minecraft:entities/rabbit");
+
+//Add new pools called "mobnameBoneLoot" and store them for later use
+val sheepBoneLoot = sheep.addPool("sheepBoneLoot", 1, 1, 1, 1);
+val pigBoneLoot = pig.addPool("pigBoneLoot", 1, 1, 1, 1);
+val cowBoneLoot = cow.addPool("cowBoneLoot", 1, 1, 1, 1);
+val chickenBoneLoot = chicken.addPool("chickenBoneLoot", 1, 1, 1, 1);
+val rabbitBoneLoot = rabbit.addPool("rabbitBoneLoot", 1, 1, 1, 1);
+
+//Drop 0-4 bones
+sheepBoneLoot.addItemEntry(<minecraft:bone>, 20, 1, [Functions.setCount(0, 4)], []);
+pigBoneLoot.addItemEntry(<minecraft:bone>, 20, 1, [Functions.setCount(0, 4)], []);
+cowBoneLoot.addItemEntry(<minecraft:bone>, 20, 1, [Functions.setCount(0, 4)], []);
+chickenBoneLoot.addItemEntry(<minecraft:bone>, 20, 1, [Functions.setCount(0, 4)], []);
+rabbitBoneLoot.addItemEntry(<minecraft:bone>, 20, 1, [Functions.setCount(0, 4)], []);
+
+//Have dragons drop egg on death
+val dragon = LootTweaker.getTable("minecraft:entities/ender_dragon");
+val dragonEggLoot = dragon.addPool("dragonEggLoot", 1, 1, 1, 1);
+dragonEggLoot.addItemEntry(<minecraft:dragon_egg>, 20, 1, [Functions.setCount(1, 1)], []);
+```
+
+</details>
+
+Known issues: None (yet?). Crash reports may show a `NoSuchMethodException` for `LaunchClassLoader.untransformName` under "Suspected Mods" — harmless, it is only a broken crash report decoration and does not affect the game.
+
+</details>
+
+
+
 ## Project Ozone 3
 
 <details>
