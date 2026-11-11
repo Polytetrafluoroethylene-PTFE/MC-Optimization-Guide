@@ -376,6 +376,26 @@ Known issues: Java 25 causes issues, stick with Java 21 for now.
 
 </details>
 
+## Peace of Mind
+
+<details>
+  <summary>Click to see instructions</summary>
+   
+1. Install the latest version of Peace of Mind
+2. Move the pack to Cleanroom Loader
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the Peace of Mind instance to it.
+   - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
+3. Update Chunk Animator, CraftTweaker and Recurrent Complex
+4. Remove AppleSkin, Bailey's Dailies (its server backend is dead, the mod only prints an error in chat), Baubles, Bed Patch, Better Foliage, BetterFPS, Better Questing, Quest Book, Standard Expansion, Clumps, CodeChicken Lib, Diet Hopper, Discord RPC, Fast Leaf Decay, FoamFix, Fullscreen Windowed, Just Enough Items, Mouse Tweaks, Natura, NetherPortalFix, Patchouli, Quark, Shadowfacts' Forgelin, Tinkers' Construct and The One Probe
+5. Install Better Questing Unofficial, Bubbles, CodeChicken Lib CRE, Forgelin-Continuous, Fugue, Gnetum, Had Enough Items, Just Enough Magiculture, LemonSkin, Mouse Tweaks Unofficial, Natura Legacy, Patchouli ROFL Edition, Quark: RotN Edition, Red Core, RenderLib, Scalar Legacy, Tinkers' Antique and The One Probe Community Edition
+6. Make sure you have all of [these mods](/mods-n-stuff/1.12.2.md) installed and configured accordingly
+
+Known issues: Not tested. Crash reports may show a `NoSuchMethodException` for `LaunchClassLoader.untransformName` under "Suspected Mods" — harmless, it is only a broken crash report decoration and does not affect the game.
+
+</details>
+
+
+
 ## Project Ozone 3
 
 <details>
