@@ -10,3 +10,5 @@ assignees: Polytetrafluoroethylene-PTFE
 Minecraft version:
 
 CurseForge/Modrinth link:
+
+- [ ] This issue was written by a human. No LLM Generated 
