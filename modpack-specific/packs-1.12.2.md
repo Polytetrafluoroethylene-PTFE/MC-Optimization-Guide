@@ -451,16 +451,38 @@ Known issues: None (yet?)
 
 <details>
   <summary>Click to see instructions</summary>
-   
-1. Install the latest version of RLCraft
-2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the RLCraft Dregora instance to it.
-   - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
-3. Remove AttributeFix, Born in a Barn, BreakBedBegone, Block Overlay Fix, Entity Culling (by Meldexun), FermiumASM, FermiumBooter, FileDirector, FoamFix, Food Fix, Frame Void Patch, HelpFixer, Just Enough Items, LibrarianLib, Quark, Phosphor, PhosphorCrashFix, PortalDupeBegone, Shadowfacts' Forgelin, Spark, Surge and Toast Control
-4. Install FermiumBooterDepoliticization, Forgelin-Continuous, Fugue, Had Enough Items, LibrarianLib-Continuous, Quark: RotN Edition and Scalar Legacy
-5. Make sure you have all of [these mods](/mods-n-stuff/1.12.2.md) installed and configured accordingly
 
-Known issues: None (yet?)
+1. Install the latest version of RLCraft Dregora using Prism Launcher or a MultiMC-based launcher.
+2. Set up the Cleanroom Loader:
+   - Download the latest [Cleanroom Loader MMC](https://download.cleanroommc.com) instance.
+   - Extract the contents of the `Cleanroom_MMC` archive into your RLCraft Dregora instance folder, **except** `instance.cfg`.
+   - Configure the instance to use Java 21 or higher. Java 25 is recommended.
+3. Make sure you have all of these mods installed:
+   - Replace Shadowfacts' Forgelin -> Forgelin Continuous
+   - Replace LibrarianLib -> LibrarianLib Continuous
+   - Download Fugue, Scalar Legacy
+   - Update FermiumASM to version 5.31+
+4. Optional (advanced, this one **IS NOT REQUIRED**):
+     - <a name="patched-phosphor"></a>**Install patched Phosphor (if you use Alfheim Lighting Engine, this can be ignored):**
+       * Compile a local build of `phosphor-forge112` using the `dynamiclights` branch (https://github.com/embeddedt/phosphor-forge112).
+       * Edit `build.gradle` and replace the `4.2` from `deobfCompile ("zone.rong:mixinbooter:4.2")` with version `10.7` (or the version corresponding to your Cleanroom instance) to resolve the dependency tree.
+     - **Fugue:** Requires patching to function alongside FermiumASM instead of CensoredASM.
+     - **RLTweaker:** Requires patching to function natively with Cleanroom.
+5. Remove OptiFine, Sound Filters, and FoamFix.
+6. Install the required core mods: [Celeritas](https://github.com/kappa-maintainer/Celeritas-auto-build/releases), FermiumBooterDepoliticization, and Red Core.
+7. Install the optimization mods: Celeritas Leaf Culling, Celeritas Extra, [FastEntityRender](https://github.com/Meldexun/FastEntityRender/releases), Gnetum, VintageFix, and Alfheim Lighting Engine / [patched Phosphor](#patched-phosphor).
+---
+
+### General Performance Tweaks
+If you experience heavy lag spikes in dense areas (e.g., Brutal Towers), perform the following adjustments:
+* Disable Better Foliage (`RLFoliage`).
+* Turn off all animations (If you want the nunchaku swing animation, leave terrain animation turned on).
+* Press `P` to bring up the Fancy Block Particles menu, locate the FBT icon, and click to disable it.
+* Turn off particles.
+* Lower render distance and graphics settings.
+
+Known issues:
+* Inspirations has a conflict with Celeritas and will crash when rendering Inspirations blocks. (this has been reported, hopefully it will get fixed. Or you can patch it yourself by replacing `HashMap` with `ConcurrentHashMap` in `ClientUtil.java`-Inspirations)
 
 </details>
 
