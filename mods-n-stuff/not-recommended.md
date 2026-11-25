@@ -279,6 +279,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Mod | Reason |
 |:---:|:---:|
 | AI Improvements | Redundant with UniversalTweaks |
+| Alfheim Lighting Engine | Redundant with Pulsar Lighting Engine |
 | Better Biome Blend Continued | AI-generated, no significant changes over the original |
 | BettererBiomerBlender | Doesn't actually fix any issues with the original mod |
 | BetterFPS | Compatibility issues, negligible performance improvement |
