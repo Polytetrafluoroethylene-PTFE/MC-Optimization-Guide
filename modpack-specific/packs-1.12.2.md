@@ -170,8 +170,8 @@ Known issues: None (yet?)
 2. Move the pack to Cleanroom Loader
    - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the FTB Infinity Reloaded: Skyblock instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
-3. Update Alfheim, Had Enough Items, Railcraft, Red Core, UniversalTweaks and VintageFix
-4. Remove BetterFPS, Clumps, FastFurnace, MixinBooter, MixinBootstrap, NotEnoughIDs, Shadowfacts' Forgelin
+3. Update Had Enough Items, Railcraft, UniversalTweaks and VintageFix
+4. Remove Alfheim, BetterFPS, Clumps, FastFurnace, MixinBooter, MixinBootstrap, NotEnoughIDs, Red Core, Shadowfacts' Forgelin
 5. Install Forgelin-Continuous, Fugue and Scalar Legacy 
 6. Make sure you have all of [these mods](/mods-n-stuff/1.12.2.md) installed and configured accordingly
 
@@ -402,8 +402,8 @@ Known issues: Dimensional cake rendering is slightly broken with Nothirium, some
 2. Move the pack to Cleanroom Loader
    - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the RotN instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
-3. Update Alfheim, Fixeroo, Had Enough Items, Red Core and UniversalTweaks
-4. Remove ConfigAnytime, EntityCulling (by Meldexun), FermiumASM, FermiumBooter, MixinBooter, MixinBootstrap, Mixin Compatibility
+3. Update Fixeroo, Had Enough Items, and UniversalTweaks
+4. Remove Alfheim, ConfigAnytime, EntityCulling (by Meldexun), FermiumASM, FermiumBooter, MixinBooter, MixinBootstrap, Mixin Compatibility and Red Core
 5. Install FermiumBooterDepoliticization, Fugue and Scalar Legacy
 6. Make sure you have all of [these mods](/mods-n-stuff/1.12.2.md) installed and configured accordingly
 
